@@ -1,4 +1,4 @@
-path: 'C:/Users/User/PycharmProjects/datasets/plants'
+path: ../datasets/plants
 train: images/train
 val: images/val
 test: images/test
