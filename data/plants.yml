@@ -1,0 +1,11 @@
+path: 'C:/Users/User/PycharmProjects/datasets/plants'
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: leaf
+  1: stem
+  2: flower
+  3: root
+  4: fruit
+  5: seed
